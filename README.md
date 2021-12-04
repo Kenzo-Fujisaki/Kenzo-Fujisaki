@@ -1,4 +1,7 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&count_private=true&theme=chartreuse-dark)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Kenzo-Fujisaki&repo=homebridge-switchbot-for-mac)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact)
+
 
 <!--
 **Kenzo-Fujisaki/Kenzo-Fujisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
