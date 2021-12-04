@@ -1,6 +1,6 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&count_private=true&theme=chartreuse-dark)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Kenzo-Fujisaki&repo=homebridge-switchbot-for-mac)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Kenzo-Fujisaki&repo=homebridge-switchbot-for-mac&count_private=true&theme=chartreuse-dark)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact&count_private=true&theme=chartreuse-dark)
 
 
 <!--
