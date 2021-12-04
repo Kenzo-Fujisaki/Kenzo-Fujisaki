@@ -1,6 +1,9 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&theme=chartreuse-dark)
-![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=Kenzo-Fujisaki&repo=homebridge-switchbot-for-mac&theme=chartreuse-dark)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact&theme=chartreuse-dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&count_private=true&chartreuse-dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki" />
+</a>
 
 
 <!--
