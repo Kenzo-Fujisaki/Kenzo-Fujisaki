@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&count_private=true&theme=chartreuse-dark)
 
 <!--
 **Kenzo-Fujisaki/Kenzo-Fujisaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
