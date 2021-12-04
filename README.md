@@ -1,6 +1,6 @@
 <p align="left"> 
-  <img alt="github stats" height="100px" src="https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&theme=chartreuse-dark&show_icons=ture" />
-  <img alt="Top Langs" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact&show_icons=true&theme=chartreuse-dark"
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=Kenzo-Fujisaki&theme=chartreuse-dark&show_icons=ture" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kenzo-Fujisaki&layout=compact&show_icons=true&theme=chartreuse-dark"
  />
 </p>
 
